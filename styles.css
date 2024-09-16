@@ -1,0 +1,115 @@
+body{
+    background-color : white;
+    
+}
+
+.fullContainer{
+   display:inline-block;
+   width:40%;
+}
+
+.containerLeftOuter{
+    background-color : #fff1df;
+    
+    margin-top:20%;
+    margin-left:5%;
+    bottom:0%;
+    
+   
+    border:1px solid white;
+    
+}
+
+#box1{
+   
+    position:relative;
+    left:20%;
+    top:300px;
+    
+}
+
+#box2{
+   
+   
+    top:20%;
+    
+   
+    
+}
+
+.containerRightOuter{
+    background-color : #fff1df;
+    
+    margin-top:20%;
+    margin-left:5%;
+    bottom:0%;
+    
+   
+    border:1px solid white;
+    
+}
+
+
+
+.container{
+    background-color : white;
+    margin-top:10%;
+    margin-left:10%;
+    margin-right:10%;
+    
+    
+    padding:10%;
+
+}
+
+.img{
+    width:100%;
+    margin:2%;
+    height:40%;
+}
+
+.preparation{
+    background-color :#F7D6D0;
+}
+
+.preparation-head{
+    color :#800000;
+}
+
+.ingredients{
+    color :#800000;
+}
+
+.heading{
+    color :#800000;
+}
+
+.line{
+    border-top:2px light #C0C0C0;
+}
+
+//right
+
+
+
+
+
+/* .box{
+    display:inline-block;
+    color:#800000;
+    width:10%;
+    height:20%;
+    border:1px solid #800000;
+}
+
+#box1{
+    position:relative;
+    left:10%;
+} */
+
+
+
+
+
+
+
